@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb571df6-186d-41fa-a3f9-a9ffe3346b17" name="Changes" comment="Add new">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,7 @@
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="a4630a17-7d39-4bfc-9835-42d80bcb5bb0" />
-        <option name="url" value="https://github.com/ZhenhaoLu/weather3.git" />
+        <option name="url" value="https://github.com/ZhenhaoLu/weather4.git" />
       </UrlAndAccount>
     </option>
   </component>
@@ -60,7 +60,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "<unknown>",
+    "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "11",
     "last_opened_file_path": "D:/Python/Antra/weather3",
     "node.js.detected.package.eslint": "true",
@@ -80,7 +80,7 @@
       <recent name="D:\Python\Antra\weather\DBService\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.ConfigApplication">
+  <component name="RunManager" selected="Spring Boot.DbServiceApplication">
     <configuration name="ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="config" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.config.ConfigApplication" />
@@ -132,7 +132,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710867555330</updated>
-      <workItem from="1710867560889" duration="43701000" />
+      <workItem from="1710867560889" duration="43936000" />
     </task>
     <task id="LOCAL-00001" summary="Add new">
       <option name="closed" value="true" />
